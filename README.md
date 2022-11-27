@@ -1,6 +1,5 @@
-
-
-
+![2000_600px](https://user-images.githubusercontent.com/76790077/204166315-ef879fca-d934-452f-ade9-984a9e255d06.gif)
+________________________________________________________________________________________________________________________________________________________________
 - 👋 Hi, I’m @MostafaKader56
 - 👀 I’m interested in Android development by kotlin and java
 - 🌱 I’m currently learning jetpack compose
