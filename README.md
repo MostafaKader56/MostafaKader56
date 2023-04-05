@@ -2,7 +2,7 @@
 ________________________________________________________________________________________________________________________________________________________________
 - 👋 Hi, I’m @MostafaKader56
 - 👀 I’m interested in Android development by kotlin and java
-- 🌱 I’m currently learning jetpack compose
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me e-mail: mostafa.kader1@outlook.com || +201015677225
 
 <!---
